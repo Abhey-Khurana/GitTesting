@@ -1,1 +1,1 @@
-Hello Fron GitHub [local Repo]
+Hello Fron GitHub [Remote Repo]
